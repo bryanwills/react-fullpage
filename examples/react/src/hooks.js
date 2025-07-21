@@ -15,7 +15,7 @@ const pluginWrapper = () => {
 
 const
   originalColors = ['#ff5f45', '#0798ec', '#fc6c7c', '#435b71', 'orange', 'blue', 'purple', 'yellow'],
-  originalPages = [{ text: "Section 1" }],
+  originalPages = [{ text: "Section 1" }, { text: "Section 2" }, { text: "Section 2" }],
   originalSlides = [{ text: "Slide1" }, { text: "Slide2" }, { text: "Slide3" }];
 
 const Hooks = () => {
